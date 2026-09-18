@@ -151,6 +151,10 @@ a {
    NAVIGATION
 ========================================= */
 
+.navbar-toggle {
+  display: none;
+}
+
 .navbar-links {
   display: flex;
 
